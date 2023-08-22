@@ -1,2 +1,12 @@
 # Warships-Game
 Try to sink the opponent's ships in the classic Warships game
+# Description
+This is a classic old version of the well-known Warship game.
+A game of turns intended for two.
+Each player places secretly his ships on the board.
+In each turn, the player chooses 4 coordinates to shell in order to try to hit the opponent's ships.
+The first player who destroys the opponent's navy wins.
+# Instalation
+* Clone this repository.
+* Run the code and follow the instructions in the game.
+* Have fun ;)
