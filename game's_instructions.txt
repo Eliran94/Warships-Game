@@ -1,0 +1,14 @@
+Welcome to The Warships Game!
+
+Instructions:
+- Each player places secretly their ships on the 10X10 board
+- On each turn, each player chooses 4 coordinates to shell
+- The first player that destroys the opponent's navy WINS!
+
+Each player's ships are:
+- 1 X Mother ship - <MMM>
+- 2 X Submarine - <SU>
+- 3 X Warship - <W>
+- 4 X Combat ship - <>
+
+Good luck captains!
